@@ -4,12 +4,8 @@
 <h4 align="center"> - 🌱 I’m currently learning : back-end & fron-end ;</h4>
 <h4 align="center"> - 😄 Pronouns: ela/dela ;</h4>
 
-<div>
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiicyane&show_icons=true&locale=en" alt="thiicyane" /> </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiicyane&show_icons=true&locale=en&layout=compact" alt="thiicyane" /> </p>
-</div>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiicyane&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiicyane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left"> 
