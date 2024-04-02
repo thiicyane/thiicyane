@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Thicyane Luz</h1>
+<h1 align="center">👋 Olá, sou Thiicyane Luz!</h1>
 <h3 align="center">Uma Data Analytics iniciante apaixonada por Dados</h3>
 
 <h4 align="center"> - 🌱 Atualmente estou buscando aprender: Análise & Ciência de dados e Desenvolvimento Back-end </h4>
