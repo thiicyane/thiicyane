@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou Thicyane Luz</h1>
 <h3 align="center">Uma Data Analytics iniciante apaixonada por Dados</h3>
 
-<h4 align="center"> - 🌱 I’m currently learning : back-end & fron-end ;</h4>
-<h4 align="center"> - 😄 Pronouns: ela/dela ;</h4>
+<h4 align="center"> - 🌱 Atualmente estou buscando aprender: Análise & Ciência de dados e Desenvolvimento Back-end </h4>
+<h4 align="center"> - 😄 Pronouns: Ela/Dela ;</h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiicyane&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiicyane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
