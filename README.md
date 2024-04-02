@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Thicyane Luz</h1>
-<h3 align="center">Uma desenvolvedora iniciante apaixonada do Brasil</h3>
+<h3 align="center">Uma Data Analytics iniciante apaixonada por Dados</h3>
 
 <h4 align="center"> - 🌱 I’m currently learning : back-end & fron-end ;</h4>
 <h4 align="center"> - 😄 Pronouns: ela/dela ;</h4>
